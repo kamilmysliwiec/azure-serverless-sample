@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) + Azure serverless sample (`@nestjs/azure-serverless` example).
 
 ## Installation
 
@@ -43,8 +43,8 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode
-$ npm run start:prod
+# serverless compilation
+node azure-compiler
 ```
 
 ## Test
