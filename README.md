@@ -34,6 +34,13 @@
 $ npm install
 ```
 
+## Serverless
+
+```bash
+# serverless compilation
+$ npm run build:serverless
+```
+
 ## Running the app
 
 ```bash
@@ -42,9 +49,6 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
-
-# serverless compilation
-node azure-compiler
 ```
 
 ## Test
